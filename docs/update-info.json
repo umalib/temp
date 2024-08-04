@@ -1,7 +1,7 @@
 {
   "currentVersion": 1,
   "currentVersionName": "3.0.2",
-  "currentDb": 20240804,
+  "currentDb": 20240905,
   "info": {
     "title": "！！如果遇到问题请卸载重装！！",
     "message": "修复数据库自动更新服务"
@@ -10,5 +10,5 @@
     "text": "去下载新版",
     "url": "https://gitgud.io/umalib/UmaLibAndroid/-/releases/permalink/latest"
   },
-  "downloadUrl": "https://gitgud.io/api/v4/projects/30303/packages/generic/database/20240804/20240804.zip"
+  "downloadUrl": "https://gitgud.io/api/v4/projects/30303/packages/generic/database/20240905/20240905.zip"
 }
